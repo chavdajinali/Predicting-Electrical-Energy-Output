@@ -65,7 +65,7 @@ The Random Forest model provides the most accurate and stable predictions for en
 	•	Matplotlib
 
 # How to Run
- 	 * Install dependencies
+ 	* Install dependencies
 		pip install pandas numpy scikit-learn matplotlib
 	* Run Jupyter Notebook
 		jupyter notebook
