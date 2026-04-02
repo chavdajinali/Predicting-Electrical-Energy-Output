@@ -15,11 +15,11 @@ This project focuses on predicting the electrical energy output (PE) of a Combin
 The dataset contains 9568 hourly observations collected from power plant sensors.
 
 # Features:
-• AT(Ambient Temperature)
-• AP(Ambient Pressure)
-• RH(Relative Humidity)
-• V(Exhaust Vacuum)
-• PE(Energy Output (Target Variable))
+	•	AT(Ambient Temperature)
+	• 	AP(Ambient Pressure)
+	• 	RH(Relative Humidity)
+	• 	V(Exhaust Vacuum)
+	• 	PE(Energy Output (Target Variable))
 
 # Data Preprocessing
 	•	Checked for missing values
@@ -30,7 +30,6 @@ The dataset contains 9568 hourly observations collected from power plant sensors
 	  •	20% Testing
     
 # Models Used
-
 # 1. Linear Regression
 	•	Simple baseline model
 	•	Assumes linear relationships
@@ -52,6 +51,7 @@ The dataset contains 9568 hourly observations collected from power plant sensors
 	•	Without AP → AT, RH, V
 	•	Only AT & V
 
+# Results
 <img width="995" height="591" alt="Screenshot 2026-04-02 at 11 18 45 AM" src="https://github.com/user-attachments/assets/a781b323-edea-48a5-8b45-07903de063ef" />
 
 # Conclusion
@@ -63,13 +63,6 @@ The Random Forest model provides the most accurate and stable predictions for en
 	•	NumPy
 	•	Scikit-learn
 	•	Matplotlib
-
-# Project Structure
-    ├── data/
-    ├── notebooks/
-    ├── models/
-    ├── results/
-    ├── README.md
 
 # How to Run
   # Install dependencies
