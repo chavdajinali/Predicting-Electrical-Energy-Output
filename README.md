@@ -71,5 +71,5 @@ pip install pandas numpy scikit-learn matplotlib
 # Run Jupyter Notebook
 jupyter notebook
 
-# Demo 
+# Explanation Video
 https://youtu.be/aqTIdmaRATY
