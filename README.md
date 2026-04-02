@@ -15,11 +15,11 @@ This project focuses on predicting the electrical energy output (PE) of a Combin
 The dataset contains 9568 hourly observations collected from power plant sensors.
 
 # Features:
-AT(Ambient Temperature)
-AP(Ambient Pressure)
-RH(Relative Humidity)
-V(Exhaust Vacuum)
-PE(Energy Output (Target Variable))
+• AT(Ambient Temperature)
+• AP(Ambient Pressure)
+• RH(Relative Humidity)
+• V(Exhaust Vacuum)
+• PE(Energy Output (Target Variable))
 
 # Data Preprocessing
 	•	Checked for missing values
