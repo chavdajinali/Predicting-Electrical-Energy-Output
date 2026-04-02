@@ -1,5 +1,3 @@
-# Attach Prsentation Video 
-https://youtu.be/aqTIdmaRATY
 
 # Predicting-Electrical-Energy-Output
 Combined Cycle Power Plant (Machine Learning Project)
@@ -79,4 +77,6 @@ pip install pandas numpy scikit-learn matplotlib
 
 # Run Jupyter Notebook
 jupyter notebook
-    
+
+# Demo 
+https://youtu.be/aqTIdmaRATY
